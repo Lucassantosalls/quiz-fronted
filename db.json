@@ -1,0 +1,31 @@
+{
+  "frontEnd": [
+    {
+      "question": "#1 - O que é Front-end?",
+      "answerOptions": [
+        { "text": "#1 - a) Parte de um sistema que é oculta para o usuário.", "isCorrect": false },
+        { "text": "#1 - b) Parte de um sistema é visível e interativa ao usuário. ", "isCorrect": true },
+        { "text": "#1 - c) Parte lógica que reco as regras de negócio.", "isCorrect": false },
+        { "text": "#1 - d) Nenhuma das alternativas anteriores.", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "#2 - O que é React JS?",
+      "answerOptions": [
+        { "text": "#2 - a) Uma poderosa biblioteca JavaScript. ", "isCorrect": true },
+        { "text": "#2 - b) Uma linguagem de Programação. ", "isCorrect": false },
+        { "text": "#2 - e) Um servidor de Cloud.", "isCorrect": false },
+        { "text": "#2 - d) Todas as respostas anteriores.", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "#3 - Quais são as principais tecnologias do mundo Front-End?",
+      "answerOptions": [
+        { "text": "#3 - a) Java, golang e python.", "isCorrect": false },
+        { "text": "#3 - b) AWS. Google Cloud e Azure.", "isCorrect": false },
+        { "text": "#3 - c) Kotlin, HTML e CSS.", "isCorrect": false },
+        { "text": "#3 - d) HTML, CSS e JavaScript. ", "isCorrect": true }
+      ]
+    }
+  ]
+}
